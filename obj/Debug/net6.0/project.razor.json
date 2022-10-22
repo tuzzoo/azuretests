@@ -16313,11 +16313,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Arek\\CODE\\myWebApp\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\Arek\\CODE\\myWebApp\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
